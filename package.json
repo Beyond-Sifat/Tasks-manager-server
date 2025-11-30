@@ -1,5 +1,5 @@
 {
-  "name": "Tasks-manager-server",
+  "name": "tasks-manager-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
